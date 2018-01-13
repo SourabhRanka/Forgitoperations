@@ -1,1 +1,2 @@
 this is added from github
+I also added something on line2 from github to create conflict
